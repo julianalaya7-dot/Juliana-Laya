@@ -2,7 +2,7 @@ Bonjour,
 
 Je suis Juliana LAYA
 
- À propos de moi
+## À propos de moi
 
 - En formation vers un Master 2 en Management des SI ou Droit Cyber-Tech
 - Passionnée par la cybersécurité, la gouvernance des données et le droit du numérique
