@@ -1,13 +1,11 @@
-🚛 Risk Management & Security Governance
+ Risk Management & Security Governance
 ## Case Study: TransGo Global
 
-> 🎓 **Academic Context**
+>  **Academic Context**
 > Produced as part of the **Women4Cyber CyberAgents Programme (EQF Level 6)**
 > [![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu/en/higherEductation/23b2af04-aa11-4c9c-8ce0-e2d52e19b3c1?difficultyLevel=EQF+6)
->
-> ⚠️ **Disclaimer:** TransGo Global is a **fictional company**
-> created for educational purposes. All analysis and recommendations
-> are original work based on real frameworks (ISO 27001, NIST CSF, GDPR).
+
+>  **Disclaimer:** TransGo Global is a **fictional company** created for educational purposes. 
 
 ---
 
@@ -68,7 +66,7 @@ Word Count
 
 ---
 
-## 📄 Table of Contents
+##  Table of Contents
 
 1. [Executive Summary](#1-executive-summary)
 2. [Organisational Context](#2-organisational-context)
@@ -92,11 +90,11 @@ to support its global supply chain activities.
 A recent internal audit revealed critical weaknesses in the company's
 security governance structure, including:
 
-- ❌ Unclear roles and responsibilities for cybersecurity decisions
-- ❌ No formal escalation protocols for security incidents
-- ❌ Legacy VPN protocols creating exploitable vulnerabilities
-- ❌ Absence of a dedicated CISO function
-- ❌ No formal risk register or risk treatment process
+- Unclear roles and responsibilities for cybersecurity decisions
+-  No formal escalation protocols for security incidents
+- Legacy VPN protocols creating exploitable vulnerabilities
+- Absence of a dedicated CISO function
+- No formal risk register or risk treatment process
 
 This report identifies the key risks associated with these governance
 gaps, proposes a set of prioritised corrective measures, and presents
@@ -110,7 +108,7 @@ a simplified risk matrix to support decision-making by the
 ### About TransGo Global
 
 TransGo Global is an international logistics company operating across
-**24 countries**, managing complex supply chains for manufacturing,
+24 countries, managing complex supply chains for manufacturing,
 retail, and pharmaceutical clients. The company has undergone
 significant digital transformation over the past three years:
 
