@@ -13,7 +13,18 @@ Basée à Noisy-le-Grand | Disponible en Île-de-France et télétravail
 
 ---
 
-#Compétences
+## À Propos de ce Portfolio
+
+Ce repository contient l'ensemble des exercices réalisés dans le cadre du
+**Programme Women4Cyber CyberAgents — Enseignement Supérieur (Niveau EQF 6)**.
+
+Vous trouverez ici 🛡️ Women4Cyber — CyberAgents Portfolio
+### Module 5 - Security Governance & Policy
+
+[![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu)
+[![Status](https://img.shields.io/badge/Status-In_Progress-orange)]()
+
+--- 
 
 ### Cybersécurité & SI
 ![RGPD]
