@@ -1,11 +1,13 @@
-Bonjour, je suis Juliana LAYA
+Bonjour,
+
+Je suis Juliana LAYA
 
  À propos de moi
 
 - En formation vers un Master 2 en Management des SI ou Droit Cyber-Tech
-- Passionnée par la cybersécurité, la gouvernance des données et le **droit du numérique
+- Passionnée par la cybersécurité, la gouvernance des données et le droit du numérique
 
-À la recherche d'une **alternance** à partir de la rentrée 2026
+À la recherche d'une alternance à partir de la rentrée 2026
 
 Basée à Noisy-le-Grand | Disponible en Île-de-France et télétravail
 
@@ -28,7 +30,7 @@ Basée à Noisy-le-Grand | Disponible en Île-de-France et télétravail
 - Propriété intellectuelle
 
 
-## 📊 Mon Parcours
+## Mon Parcours
 
 🌐 Me Contacter
 
