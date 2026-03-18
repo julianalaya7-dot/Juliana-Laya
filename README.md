@@ -13,7 +13,7 @@ Basée à Noisy-le-Grand | Disponible en Île-de-France et télétravail
 
 ---
 
-## À Propos de ce Portfolio
+## À Propos de ce Portfolio (en cours de finition)
 
 Ce repository contient l'ensemble des exercices réalisés dans le cadre du
 **Programme Women4Cyber CyberAgents — Enseignement Supérieur (Niveau EQF 6)**.
@@ -27,12 +27,15 @@ Vous trouverez ici 🛡️ Women4Cyber — CyberAgents Portfolio
 --- 
 
 ### Cybersécurité & SI
-![RGPD]
-![EBIOS RM]
-![ISO 27001]
-![ANSSI]
+- RGPD
+- EBIOS RM
+- ISO 27001
+- NIS2
 
 ### Outils
+- **Gestion de projet** : GitHub, Notion, Jira (bases)
+- **Documentation** : Markdown, LaTeX (bases)
+- **Juridique** : LexisNexis, SOQUIJ, EUR-Lex
 
 ### Juridique & Conformité
 - Droit des données personnelles (RGPD, CNIL)
@@ -40,8 +43,17 @@ Vous trouverez ici 🛡️ Women4Cyber — CyberAgents Portfolio
 - Droit des contrats numériques
 - Propriété intellectuelle
 
+💼 Expériences clés
 
-## Mon Parcours
+### Conformité & Protection des données
+- **AG2R La Mondiale** — Gestion données sensibles santé/prévoyance (RGPD)
+- **Garage Légal (UdeM)** — Conseil PME sur conformité RGPD/Loi 25
+- **Agence mobilité durable Montréal** — Mémos juridiques conformité numérique
+
+### Formations Cybersécurité
+- 🌍 **International Cybersecurity Summer School** — La Haye (OTAN NCI, Europol)
+- 📜 **Google Professional Certificate in Cybersecurity** — En cours
+- 🏆 **ISO 27001 Foundation** — Préparation en cours 
 
 🌐 Me Contacter
 
