@@ -1,11 +1,11 @@
-# 🏢 Exercise 01 — Understanding Organizational Context in Cybersecurity
+# Exercise 01 — Understanding Organizational Context in Cybersecurity
 ## Case Study: Thales Group
 
-> 🎓 **Academic Context**
+>  **Academic Context**
 > Produced as part of the **Women4Cyber CyberAgents Programme (EQF Level 6)**
 > [![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu)
 >
-> ✅ Real company — All data sourced from public information
+>  Real company — All data sourced from public information
 
 ---
 
