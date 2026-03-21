@@ -17,7 +17,6 @@ them with healthcare professionals.
 
 |
  Indicator 
-|
  Data 
 |
 |
