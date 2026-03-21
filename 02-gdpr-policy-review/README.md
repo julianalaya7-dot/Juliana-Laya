@@ -1,218 +1,241 @@
-#  Exercise 01 — Understanding Organizational Context in Cybersecurity
-## Case Study: Thales Group
+ercise 02 — Privacy Policy Review & GDPR Compliance
+## Case Study: Doctolib
 
 > **Academic Context**
 > Produced as part of the **Women4Cyber CyberAgents Programme (EQF Level 6)**
 > [![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu)
 >
-> Real company — All data sourced from public information
+> Real company — Policy reviewed: doctolib.fr/confidentialite (December 2025)
 
 ---
 
 ## 1. Organisation Overview
 
-Thales is a **French multinational industrial and technology group**,
-operating across five strategic sectors: defence, aerospace, space,
-digital identity and cybersecurity.
+Doctolib is a **French digital health platform** founded in 2013,
+enabling patients to book medical appointments online and connecting
+them with healthcare professionals.
 
 |
  Indicator 
 |
- Data (2025) 
+ Data 
 |
 |
 -----------
 |
-------------
+------
 |
 |
- Revenue 
+ Patients 
 |
- €22.1 billion (+20% vs 2023) 
+ 80M+ across Europe 
 |
 |
- Employees 
+ Practitioners 
 |
- ~85,000 worldwide 
+ 350,000+ 
 |
 |
  Countries 
 |
- 68 
+ France, Germany, Italy 
 |
 |
- R&D Investment 
+ Data type 
 |
- ~€4.2 billion/year 
+ Health data — GDPR Article 9 (sensitive) 
 |
 |
- Clients 
+ GDPR Status 
 |
- Governments, armies, CAC 40 companies 
+ Data controller + Data processor 
 |
 
-Thales holds a unique position: it is simultaneously a **producer
-of cybersecurity solutions** and an organisation **exposed to
-sophisticated cyber threats** — making it a particularly rich
-case study for understanding how organisational context shapes
-security strategy.
+This dual status makes Doctolib's privacy policy
+particularly complex and strategically important.
 
 ---
 
-## 2. Internal Factors
+## 2. Policy Structure & Accessibility
 
-### Governance & Leadership
-- Centralised security policy defined by a **Group CISO**
-- Each Business Unit has dedicated security correspondents
-- Cybersecurity is a **board-level strategic priority**
-- Legal department plays a growing role due to
-  regulatory complexity (GDPR, NIS2, AI Act)
+The policy is organised into clear thematic sections:
+identity of the controller, data collected, legal bases,
+recipients, international transfers, retention periods,
+user rights, cookies, and policy updates.
 
-### IT & Security Resources
-- Over **3,800 internal cybersecurity experts** (+10%)
-- Dedicated research labs: **Thales Research & Technology (TRT)**
-- Proprietary **Threat Intelligence** capability
-- Internal SOC and Red Team operations
-- Post-quantum cryptography leader:
-  **5G PQC validated on live networks (2026)**
-
-### Organisational Culture
-- Deep **confidentiality culture** inherited from defence sector
-- Security awareness treated as a **professional obligation**
-- Strict **security clearance management**
-  (Secret Défense, Confidentiel Défense)
-- **Conservative risk tolerance** — especially for critical systems
+**On accessibility:**
+- Available in French, German and Italian
+- Accessible from all pages via the footer
+- Internal search function available
+- Approximately 9,500 words — discourages full reading
+- Some technical terms used without explanation
 
 ---
 
-## 3. External Factors
+## 3. GDPR Compliance Assessment
 
-### Regulatory Environment
+### Strengths
 
 |
- Regulation 
+ Strong Point 
 |
- Impact on Thales 
+ GDPR Article 
 |
+|
+-------------
+|
+-------------
+|
+|
+ Clear data controller identity + DPO contact: contact.dataprivacy@doctolib.com 
+|
+ Art. 13(1)(a) + Art. 37 
+|
+|
+ Legal bases identified for each processing activity (detailed table) 
+|
+ Art. 13(1)(c) + Art. 6 
+|
+|
+ All user rights listed with exercise procedure 
+|
+ Art. 15-22 
+|
+|
+ CNIL contact and complaint right mentioned 
+|
+ Art. 13(2)(d) 
+|
+|
+ Dedicated section for health data with specific guarantees (HDS AWS) 
+|
+ Art. 9 
+|
+
+### Weaknesses
+
+|
+ Weakness 
+|
+ GDPR Article 
+|
+ Risk Level 
+|
+|
+---------
+|
+-------------
 |
 -----------
 |
------------------
+|
+ Retention periods now precise (e.g. 3y account, 10y fiscal) — strengthened 
+|
+ Art. 13(2)(a) 
+|
+ Low 
 |
 |
-**
-GDPR
-**
+ Cookie consent not granular — Refuse harder than Accept 
 |
- Data protection across 68 countries 
+ Art. 7 
 |
-|
-**
-NIS2 Directive
-**
-|
- Thales = Operator of Vital Importance (OIV) 
+ High 
 |
 |
-**
-French Military Law (LPM)
-**
+ Subprocessors listed (AWS, Atos, Cloudinary) but B2B partial 
 |
- Mandatory ANSSI audits 
+ Art. 13(1)(e) 
 |
-|
-**
-ITAR/EAR (USA)
-**
-|
- Strict data compartmentalisation 
+ Low 
 |
 |
-**
-Cyber Resilience Act
-**
+ No mention of automated decision-making 
 |
- Security by design in all products 
+ Art. 13(2)(f) 
+|
+ Medium 
 |
 |
-**
-AI Act
-**
+ International transfers detailed: AWS DPF EU-US, SCC post-Schrems II 
 |
- AI risk governance requirements 
+ Art. 44-49 
 |
-
-### Threat Landscape
-- **State-sponsored espionage**: APT28 (Russia), APT10 (China)
-  actively target defence industry
-- **Ransomware**: In October 2022, LockBit published data
-  allegedly stolen from Thales
-  *(Thales confirmed limited leak, no critical systems impacted)*
-- **Supply chain attacks**: 30% of 2025 breaches via third parties
-  (+100% vs 2024 — Thales Data Threat Report)
-- **Social engineering**: targeting employees with
-  access to classified information
-
-### Geopolitical Context
-- Russia-Ukraine conflict → increased cyber threats
-  against European defence companies
-- Digital sovereignty push → Thales positions itself
-  as a key European player in trusted cloud solutions
-- Tensions in Asia-Pacific → complex operations
-  management in the region
+ Low 
+|
 
 ---
 
-## 4. How Context Shapes Cybersecurity Decisions
+## 4. Recommendations
 
-Thales's context drives a **proactive and integrated** security approach:
+### Recommendation 1 — Refine Retention Transparency
+**Legal basis:** Article 13(2)(a) GDPR
 
-- **Security by Design** — security embedded in all products
-  from the start
-- **Zero Trust Architecture** — no user or system trusted by default
-- **Continuous Threat Intelligence** — permanent monitoring
-  of APT groups targeting the defence sector
-- **Multi-framework compliance** — ISO 27001, SOC 2,
-  HDS, SecNumCloud simultaneously
-- **Cyber resilience focus** — not just prevention
-  but rapid detection and recovery
+The retention table has been improved
+(e.g. account data: 3 years post-login,
+fiscal data: 10 years — Article 1649 CGI).
+The next step is to add a **user dashboard**
+allowing each patient to view their personal
+retention periods directly.
+
+**Why it matters:** The CNIL fined Amazon **35M euros (2021)**
+for vague retention information. Doctolib is now largely
+compliant on this point, but a proactive retention UI
+would further strengthen user trust.
 
 ---
 
-## 5. Recommendations
+### Recommendation 2 — Cookie Consent Redesign
+**Legal basis:** Article 7 GDPR + CNIL Deliberation n°2020-091
 
-### 5.1 Strengthen Supply Chain Risk Management
-30% of 2025 breaches originated from third parties
-*(Thales Data Threat Report 2026)*.
-A formalised **Vendor Risk Management programme** with
-common security requirements for all suppliers would
-significantly reduce this risk.
+- Ensure **visual equivalence** between Accept and Refuse buttons
+- Provide a **full list** of third-party trackers
+  (including Google Ads, Meta)
+- Enable **granular consent** by category
+- Add a persistent **"Manage preferences"** link in the footer
 
-### 5.2 Accelerate Post-Quantum Cryptography Migration
-State adversaries practise **"harvest now, decrypt later"** —
-collecting encrypted data today to decrypt it when quantum
-computers become operational. Thales validated PQC on live
-5G networks in 2026 and must lead by example across
-all its products and internal systems.
+**Why it matters:** The CNIL fined Google **150M euros**
+and Facebook **60M euros** in 2022 for deceptive
+cookie interfaces. This remains the highest-risk
+compliance gap in Doctolib's current policy.
 
-### 5.3 Integrate Legal and Cyber Functions
-The evolving regulatory landscape (NIS2, Cyber Resilience Act,
-AI Act) requires close collaboration between technical experts
-and specialised lawyers — precisely the profile developed
-in a **Master 2 in Digital Law or Cyber-Tech Law**.
+---
+
+### Recommendation 3 — Enhance Subprocessor & Transfer Transparency
+**Legal basis:** Articles 13(1)(e), 44-49 GDPR
+
+- Publish a **full public subprocessor list**
+  beyond the current annex (including Zapier, Microsoft)
+- Specify the applicable safeguard per transfer
+  (AWS DPF validated 2023)
+- Publish an **annual Transfer Impact Assessment (TIA)**
+  for US-based subprocessors, as required post-Schrems II
+
+---
+
+### Recommendation 4 — AI & Automated Decision-Making Disclosure
+**Legal basis:** Articles 13(2)(f) and 22 GDPR
+
+Doctolib uses AI tools for consultation documentation
+and prevention features. The policy currently contains
+**no mention of automated processing or profiling**.
+
+- Disclose the existence of AI-assisted features
+- Detail the logic applied and any profiling involved
+- Confirm whether decisions with legal or significant
+  effects are made automatically, and if so,
+  provide the safeguards in place
 
 ---
 
 ## References
 
-- Thales Group (2026). *Annual Report 2025*
-- Thales CPL (2026). *Data Threat Report 2026*
-- Thales (2026). *Post-Quantum 5G Validation*
-- ANSSI (2023). *Panorama de la cybermenace 2023*
-- ENISA (2023). *Threat Landscape 2023*
-- GDPR (EU) 2016/679
-- NIS2 Directive (EU) 2022/2555
-- French Military Programming Law (LPM) 2024-2030
-
----
-*Exercise 01 | Women4Cyber CyberAgents — EQF Level 6 | 2025*
+- Doctolib (2025). *Privacy Policy — December 2025 version*
+- Doctolib (2024). *Impact Report 2024*
+- Doctolib (2023-2025). *Subprocessors List*
+- GDPR (EU) 2016/679 — Articles 6, 7, 9, 12-14, 44-49
+- CNIL (2020). *Guidelines on cookies and trackers*
+- CNIL (2022). *Google LLC sanction — 150 million euros*
+- CNIL (2022). *Facebook Ireland sanction — 60 million euros*
+- CJEU, Schrems II, C-311/18, July 16, 2020
+- EDPB (2018). *Guidelines on Transparency*
