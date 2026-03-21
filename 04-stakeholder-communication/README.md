@@ -3,13 +3,12 @@
 
 ---
 
-> 🎓 **Academic Context**
 > Produced as part of the **Women4Cyber CyberAgents Programme** (EQF Level 6)
 > *Women4Cyber*
 
 ---
 
-> ⚠️ **Disclaimer:** SafeRetail Group is a fictional company created for educational purposes.
+>  **Disclaimer:** SafeRetail Group is a fictional company created for educational purposes.
 > All analysis and recommendations are based on real frameworks
 > (GDPR, NIS2, NIST CSF, ENISA data).
 
