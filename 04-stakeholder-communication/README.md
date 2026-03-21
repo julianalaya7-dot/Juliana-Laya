@@ -239,7 +239,7 @@ x11 minimum
 - [CESIN Baromètre 2025]: https://www.opinion-way.com/wp-content/uploads/2025/01/CP-10e-edition-du-barometre-annuel-du-CESIN-Janvier-2025-1.pdf 
 - [ENISA Threat Landscape 2025]: https://www.enisa.europa.eu/publications/enisa-threat-landscape-2025
 - [Hiscox Cyber Readiness Report 2025] : https://www.hiscox.fr/courtage/sites/courtage/files/documents/hiscox-cyber-readiness-report-2025-english.pdf
-- [NIS2 Directive (EU) 2022/2555 — Article 21](https://eur-lex.europa.eu)
+- [NIS2 Directive] (EU) 2022/2555 — Article 21](https://eur-lex.europa.eu)
 - [GDPR (EU) 2016/679 — Articles 32, 33](https://eur-lex.europa.eu)
 - [NIST Cybersecurity Framework 2.0]([https://www.nist.gov/cyberframework)](https://www.nist.gov/cyberframework)
 
