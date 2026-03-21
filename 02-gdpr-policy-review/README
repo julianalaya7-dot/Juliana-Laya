@@ -1,1 +1,241 @@
+Exercise 02 — Privacy Policy Review & GDPR Compliance
+## Case Study: Doctolib
 
+> **Academic Context**
+> Produced as part of the **Women4Cyber CyberAgents Programme (EQF Level 6)**
+> [![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu)
+>
+> Real company — Policy reviewed: doctolib.fr/confidentialite (December 2025)
+
+---
+
+## 1. Organisation Overview
+
+Doctolib is a **French digital health platform** founded in 2013,
+enabling patients to book medical appointments online and connecting
+them with healthcare professionals.
+
+|
+ Indicator 
+|
+ Data 
+|
+|
+-----------
+|
+------
+|
+|
+ Patients 
+|
+ 80M+ across Europe 
+|
+|
+ Practitioners 
+|
+ 350,000+ 
+|
+|
+ Countries 
+|
+ France, Germany, Italy 
+|
+|
+ Data type 
+|
+ Health data — GDPR Article 9 (sensitive) 
+|
+|
+ GDPR Status 
+|
+ Data controller + Data processor 
+|
+
+This dual status makes Doctolib's privacy policy
+particularly complex and strategically important.
+
+---
+
+## 2. Policy Structure & Accessibility
+
+The policy is organised into clear thematic sections:
+identity of the controller, data collected, legal bases,
+recipients, international transfers, retention periods,
+user rights, cookies, and policy updates.
+
+**On accessibility:**
+- Available in French, German and Italian
+- Accessible from all pages via the footer
+- Internal search function available
+- Approximately 9,500 words — discourages full reading
+- Some technical terms used without explanation
+
+---
+
+## 3. GDPR Compliance Assessment
+
+### Strengths
+
+|
+ Strong Point 
+|
+ GDPR Article 
+|
+|
+-------------
+|
+-------------
+|
+|
+ Clear data controller identity + DPO contact: contact.dataprivacy@doctolib.com 
+|
+ Art. 13(1)(a) + Art. 37 
+|
+|
+ Legal bases identified for each processing activity (detailed table) 
+|
+ Art. 13(1)(c) + Art. 6 
+|
+|
+ All user rights listed with exercise procedure 
+|
+ Art. 15-22 
+|
+|
+ CNIL contact and complaint right mentioned 
+|
+ Art. 13(2)(d) 
+|
+|
+ Dedicated section for health data with specific guarantees (HDS AWS) 
+|
+ Art. 9 
+|
+
+### Weaknesses
+
+|
+ Weakness 
+|
+ GDPR Article 
+|
+ Risk Level 
+|
+|
+---------
+|
+-------------
+|
+-----------
+|
+|
+ Retention periods now precise (e.g. 3y account, 10y fiscal) — strengthened 
+|
+ Art. 13(2)(a) 
+|
+ Low 
+|
+|
+ Cookie consent not granular — Refuse harder than Accept 
+|
+ Art. 7 
+|
+ High 
+|
+|
+ Subprocessors listed (AWS, Atos, Cloudinary) but B2B partial 
+|
+ Art. 13(1)(e) 
+|
+ Low 
+|
+|
+ No mention of automated decision-making 
+|
+ Art. 13(2)(f) 
+|
+ Medium 
+|
+|
+ International transfers detailed: AWS DPF EU-US, SCC post-Schrems II 
+|
+ Art. 44-49 
+|
+ Low 
+|
+
+---
+
+## 4. Recommendations
+
+### Recommendation 1 — Refine Retention Transparency
+**Legal basis:** Article 13(2)(a) GDPR
+
+The retention table has been improved
+(e.g. account data: 3 years post-login,
+fiscal data: 10 years — Article 1649 CGI).
+The next step is to add a **user dashboard**
+allowing each patient to view their personal
+retention periods directly.
+
+**Why it matters:** The CNIL fined Amazon **35M euros (2021)**
+for vague retention information. Doctolib is now largely
+compliant on this point, but a proactive retention UI
+would further strengthen user trust.
+
+---
+
+### Recommendation 2 — Cookie Consent Redesign
+**Legal basis:** Article 7 GDPR + CNIL Deliberation n°2020-091
+
+- Ensure **visual equivalence** between Accept and Refuse buttons
+- Provide a **full list** of third-party trackers
+  (including Google Ads, Meta)
+- Enable **granular consent** by category
+- Add a persistent **"Manage preferences"** link in the footer
+
+**Why it matters:** The CNIL fined Google **150M euros**
+and Facebook **60M euros** in 2022 for deceptive
+cookie interfaces. This remains the highest-risk
+compliance gap in Doctolib's current policy.
+
+---
+
+### Recommendation 3 — Enhance Subprocessor & Transfer Transparency
+**Legal basis:** Articles 13(1)(e), 44-49 GDPR
+
+- Publish a **full public subprocessor list**
+  beyond the current annex (including Zapier, Microsoft)
+- Specify the applicable safeguard per transfer
+  (AWS DPF validated 2023)
+- Publish an **annual Transfer Impact Assessment (TIA)**
+  for US-based subprocessors, as required post-Schrems II
+
+---
+
+### Recommendation 4 — AI & Automated Decision-Making Disclosure
+**Legal basis:** Articles 13(2)(f) and 22 GDPR
+
+Doctolib uses AI tools for consultation documentation
+and prevention features. The policy currently contains
+**no mention of automated processing or profiling**.
+
+- Disclose the existence of AI-assisted features
+- Detail the logic applied and any profiling involved
+- Confirm whether decisions with legal or significant
+  effects are made automatically, and if so,
+  provide the safeguards in place
+
+---
+
+## References
+
+- Doctolib (2025). *Privacy Policy — December 2025 version*
+- Doctolib (2024). *Impact Report 2024*
+- Doctolib (2023-2025). *Subprocessors List*
+- GDPR (EU) 2016/679 — Articles 6, 7, 9, 12-14, 44-49
+- CNIL (2020). *Guidelines on cookies and trackers*
+- CNIL (2022). *Google LLC sanction — 150 million euros*
+- CNIL (2022). *Facebook Ireland sanction — 60 million euros*
+- CJEU, Schrems II, C-311/18, July 16, 2020
+- EDPB (2018). *Guidelines on Transparency*
