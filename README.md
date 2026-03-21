@@ -1,61 +1,96 @@
-Bonjour,
+Hi, I'm Juliana LAYA
 
-Je suis Juliana LAYA
+##  About Me
 
-## À propos de moi
+I'm transitioning into cybersecurity and digital law,
+currently pursuing a **Master's degree in Information Systems Management
+or Cyber-Tech Law**.
 
-- En formation vers un Master 2 en Management des SI ou Droit Cyber-Tech
-- Passionnée par la cybersécurité, la gouvernance des données et le droit du numérique
+I'm passionate about **cybersecurity, data governance, and digital law**,
+and I'm looking for an **apprenticeship (alternance) starting September 2026**.
 
-À la recherche d'une alternance à partir de la rentrée 2026
-
-Basée à Noisy-le-Grand | Disponible en Île-de-France et télétravail
+📍 Based in Noisy-le-Grand | Available in Île-de-France & remote
 
 ---
 
-## À Propos de ce Portfolio (en cours de finition)
+##  About This Portfolio
 
-Ce repository contient l'ensemble des exercices réalisés dans le cadre du
-**Programme Women4Cyber CyberAgents — Enseignement Supérieur (Niveau EQF 6)**.
+This repository contains all the exercises completed as part of the
+**Women4Cyber CyberAgents Programme — Higher Education (EQF Level 6)**.
 
-Vous trouverez ici 🛡️ Women4Cyber — CyberAgents Portfolio
-### Module 5 - Security Governance & Policy
+**Current module:**
+📘 Module 5 — Security Governance & Policy
 
-[![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu)
-[![Status](https://img.shields.io/badge/Status-In_Progress-orange)]()
+[![Women4Cyber](https://img.shields.io/badge/Women4Cyber-CyberAgents_EQF6-purple)](https://platform.cyberagents.eu/en/higherEductation/23b2af04-aa11-4c9c-8ce0-e2d52e19b3c1?difficultyLevel=EQF+6)
 
---- 
+---
 
-### Cybersécurité & SI
-- RGPD
-- EBIOS RM
+## 🛠️ Skills
+
+### Cybersecurity & Information Systems
+- GDPR / Data Privacy
+- EBIOS RM (Risk Management)
 - ISO 27001
-- NIS2
+- NIS2 Directive
 
-### Outils
-- **Gestion de projet** : GitHub, Notion, Jira (bases)
-- **Documentation** : Markdown, LaTeX (bases)
-- **Juridique** : LexisNexis, SOQUIJ, EUR-Lex
 
-### Juridique & Conformité
-- Droit des données personnelles (RGPD, CNIL)
-- Directive NIS2
-- Droit des contrats numériques
-- Propriété intellectuelle
+### Legal & Compliance
+- Personal Data Law *(GDPR, CNIL)*
+- NIS2 Directive
+- Tech Law
+- Intellectual Property
 
-💼 Expériences clés
+---
 
-### Conformité & Protection des données
-- **AG2R La Mondiale** — Gestion données sensibles santé/prévoyance (RGPD)
-- **Garage Légal (UdeM)** — Conseil PME sur conformité RGPD/Loi 25
-- **Agence mobilité durable Montréal** — Mémos juridiques conformité numérique
+## 💼 Key Experience
 
-### Formations Cybersécurité
-- 🌍 **International Cybersecurity Summer School** — La Haye (OTAN NCI, Europol)
-- 📜 **Google Professional Certificate in Cybersecurity** — En cours
-- 🏆 **ISO 27001 Foundation** — Préparation en cours 
+### Compliance & Data Protection
+|
+ Organisation 
+|
+ Role 
+|
+|
+-------------
+|
+------
+|
+|
+**
+AG2R La Mondiale
+**
+|
+ Management of sensitive health & insurance data 
+*
+(GDPR)
+*
+|
+|
+**
+Garage Légal — Université de Montréal
+**
+|
+ GDPR & Law 25 compliance advice for SMEs 
+|
+|
+**
+Agence de Mobilité Durable — Montréal
+**
+|
+ Legal memos on digital compliance 
+|
 
-🌐 Me Contacter
+### Cybersecurity Training & Certifications
+| | |
+|-|-|
+| 🌍 | **International Cybersecurity Summer School** — The Hague *(NATO NCI, Europol)* |
+| 📜 | **Google Professional Certificate in Cybersecurity** — In progress |
+| 🏆 | **ISO 27001 Foundation** — Preparation in progress |
+| 🎓 | **Women4Cyber CyberAgents Programme** — EQF Level 6 |
 
-[![LinkedIn] https://www.linkedin.com/in/juliana-laya/
-[![Email]julianalaya7@gmail.com
+---
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliana_LAYA-blue?logo=linkedin)](https://www.linkedin.com/in/juliana-laya/)
+[![Email](https://img.shields.io/badge/Email-julianalaya7@gmail.com-red?logo=gmail)](mailto:julianalaya7@gmail.com)
