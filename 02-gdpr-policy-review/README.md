@@ -129,15 +129,14 @@ user rights, cookies, and policy updates.
 -----------
 |
 |
- Retention periods now precise (e.g. 3y account, 10y fiscal) — strengthened 
+ Retention periods now precise — strengthened 
 |
  Art. 13(2)(a) 
 |
  Low 
 |
 |
- Cookie consent not granular — Refuse harder than Accept 
-|
+ Cookie consent not granular — Refusing harder than Accepting |
  Art. 7 
 |
  High 
@@ -157,7 +156,7 @@ user rights, cookies, and policy updates.
  Medium 
 |
 |
- International transfers detailed: AWS DPF EU-US, SCC post-Schrems II 
+ International transfers detailed: AWS DPF EU-US, SCC post-Schrems II => Cadre d'adéquation Union européenne-États-Unis de Amazon Web Services : Décision adoptée en 2023 certifiée par Amazon Web Services, autorisant les transferts directs de données de l'Union européenne vers Amazon Web Services aux États-Unis sans garanties supplémentaires (remplace Privacy Shield, validé après l'arrêt Schrems II).
 |
  Art. 44-49 
 |
