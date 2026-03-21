@@ -1,4 +1,4 @@
- Exercise 04 — Stakeholder Communication Strategy
+# Exercise 04 — Stakeholder Communication Strategy
 ### Board Presentation: SafeRetail Group
 
 ---
