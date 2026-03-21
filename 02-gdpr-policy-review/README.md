@@ -1,4 +1,4 @@
-ercise 02 — Privacy Policy Review & GDPR Compliance
+#Exercise 02 — Privacy Policy Review & GDPR Compliance
 ## Case Study: Doctolib
 
 > **Academic Context**
